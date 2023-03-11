@@ -5,6 +5,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
+/**
+ * https://www.cnblogs.com/zjdxr-up/p/14058758.html
+ */
 @Component
 public class SpringUtils implements ApplicationContextAware {
 

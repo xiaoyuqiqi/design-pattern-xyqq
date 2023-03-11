@@ -1,6 +1,6 @@
 package hanlder.impl;
 
-import com.mayikt.hanlder.GatewayHandler;
+import hanlder.GatewayHandler;
 import org.springframework.stereotype.Component;
 
 /**

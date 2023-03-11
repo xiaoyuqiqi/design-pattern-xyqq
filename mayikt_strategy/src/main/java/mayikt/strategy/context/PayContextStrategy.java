@@ -1,10 +1,10 @@
 package mayikt.strategy.context;
 
-import com.mayikt.mapper.PaymentChannelMapper;
-import com.mayikt.mapper.entity.PaymentChannelEntity;
-import com.mayikt.strategy.PayStrategy;
-import com.mayikt.strategy.factory.StrategyFactory;
-import com.mayikt.utils.SpringUtils;
+import mayikt.mapper.PaymentChannelMapper;
+import mayikt.mapper.entity.PaymentChannelEntity;
+import mayikt.strategy.PayStrategy;
+import mayikt.strategy.factory.StrategyFactory;
+import mayikt.utils.SpringUtils;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

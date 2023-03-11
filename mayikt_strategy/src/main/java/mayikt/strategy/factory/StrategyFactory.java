@@ -1,7 +1,8 @@
 package mayikt.strategy.factory;
 
-import com.mayikt.strategy.PayStrategy;
-import com.mayikt.strategy.enumeration.PayEnumStrategy;
+
+import mayikt.strategy.PayStrategy;
+import mayikt.strategy.enumeration.PayEnumStrategy;
 
 /**
  * @author 蚂蚁课堂创始人-余胜军QQ644064779

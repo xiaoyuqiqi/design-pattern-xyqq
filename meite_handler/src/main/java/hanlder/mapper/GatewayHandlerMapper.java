@@ -1,6 +1,6 @@
 package hanlder.mapper;
 
-import com.mayikt.hanlder.mapper.entity.GatewayHandlerEntity;
+import hanlder.mapper.entity.GatewayHandlerEntity;
 import org.apache.ibatis.annotations.Select;
 
 public interface GatewayHandlerMapper {

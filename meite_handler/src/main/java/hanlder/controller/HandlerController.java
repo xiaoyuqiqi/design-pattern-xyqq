@@ -1,7 +1,8 @@
 package hanlder.controller;
 
-import com.mayikt.hanlder.GatewayHandler;
-import com.mayikt.hanlder.service.GatewayHandlerService;
+
+import hanlder.GatewayHandler;
+import hanlder.service.GatewayHandlerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

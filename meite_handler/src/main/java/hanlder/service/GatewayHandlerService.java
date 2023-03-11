@@ -1,9 +1,9 @@
 package hanlder.service;
 
-import com.mayikt.hanlder.GatewayHandler;
-import com.mayikt.hanlder.mapper.GatewayHandlerMapper;
-import com.mayikt.hanlder.mapper.entity.GatewayHandlerEntity;
-import com.mayikt.hanlder.utils.SpringUtils;
+import hanlder.GatewayHandler;
+import hanlder.mapper.GatewayHandlerMapper;
+import hanlder.mapper.entity.GatewayHandlerEntity;
+import hanlder.utils.SpringUtils;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

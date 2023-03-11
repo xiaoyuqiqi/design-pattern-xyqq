@@ -1,6 +1,6 @@
 package mayikt.strategy.impl;
 
-import com.mayikt.strategy.PayStrategy;
+import mayikt.strategy.PayStrategy;
 import org.springframework.stereotype.Component;
 
 /**

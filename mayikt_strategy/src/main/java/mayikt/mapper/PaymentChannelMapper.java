@@ -1,6 +1,7 @@
 package mayikt.mapper;
 
-import com.mayikt.mapper.entity.PaymentChannelEntity;
+
+import mayikt.mapper.entity.PaymentChannelEntity;
 import org.apache.ibatis.annotations.Select;
 
 public interface PaymentChannelMapper {
